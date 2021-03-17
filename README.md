@@ -1,1 +1,1 @@
-# cmstemplate
+# stage1-bg25
